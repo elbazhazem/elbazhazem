@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Hazem Elbaz @elbazhazem
-- 👀 I’m interested in research at Cloud Security, Computer Security, Cryptography, and play Penetration testing.
-- 🌱 I’m currently learning Devops and applying my research on dockers.
-- 💞️ I’m looking to collaborate on cloud security research, to publish papers on the field over Scopus and ISI Journals.
-- 📫 You can reach me by email: hazem_baz@alaqsa.edu.ps
+👋 Hello, I'm Dr. Hazem A. Elbaz (@elbazhazem) — a cybersecurity researcher, Assistant Professor, and Assistant Vice President for Research at Al-Aqsa University.
 
-<!---
-elbazhazem/elbazhazem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 My expertise lies in:
+- Cloud & Network Security
+- Blockchain Security
+- Penetration Testing & Linux Systems
+- DevOps for research environments (currently exploring Docker and CI/CD)
+
+🧪 My research focuses on:
+- AI-powered log analysis
+- Anomaly detection in network traffic
+- Privacy and cryptography
+- Open-source tools for security analytics
+
+📚 I publish in Scopus and ISI-indexed journals and collaborate on cutting-edge research in cloud computing and cybersecurity.
+
+🤝 I'm open to collaborations in:
+- Research publications and co-authored papers
+- Building open-source security tools
+- Mentorship and academic exchange
+
+📬 Contact: [hazem_baz@alaqsa.edu.ps](mailto:hazem_baz@alaqsa.edu.ps)  
+🌐 Portfolio & blog: [hazemelbaz.github.io](https://hazemelbaz.github.io)
