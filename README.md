@@ -1,6 +1,6 @@
 👋 Hello, I'm Dr. Hazem A. Elbaz (@elbazhazem) — a cybersecurity researcher, Assistant Professor, and Assistant Vice President for Research at Al-Aqsa University.
 
-🔐 My expertise lies in: <img align="right" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaiFRBfUIa3vtE9hBwyigbzE6LQ_2uDce5gA&s">
+🔐 My expertise lies in: <img align="right" width="400" height="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaiFRBfUIa3vtE9hBwyigbzE6LQ_2uDce5gA&s">
 - Cloud & Network Security
 - Blockchain Security
 - Penetration Testing & Linux Systems
